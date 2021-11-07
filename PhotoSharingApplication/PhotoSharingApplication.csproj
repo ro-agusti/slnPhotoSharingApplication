@@ -104,6 +104,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202111052134053_InitialCreate.cs" />
+    <Compile Include="Migrations\202111052134053_InitialCreate.Designer.cs">
+      <DependentUpon>202111052134053_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202111072257042_initial.cs" />
+    <Compile Include="Migrations\202111072257042_initial.Designer.cs">
+      <DependentUpon>202111072257042_initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\Photo.cs" />
     <Compile Include="Models\PhotoSharingContext.cs" />
@@ -135,6 +144,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202111052134053_InitialCreate.resx">
+      <DependentUpon>202111052134053_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202111072257042_initial.resx">
+      <DependentUpon>202111072257042_initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
