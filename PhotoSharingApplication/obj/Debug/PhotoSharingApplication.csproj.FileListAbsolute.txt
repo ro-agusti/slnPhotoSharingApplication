@@ -74,5 +74,3 @@ C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\22-MVC\slnPhotoSharingAp
 C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\22-MVC\slnPhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csproj.CopyComplete
 C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\22-MVC\slnPhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll
 C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\22-MVC\slnPhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.pdb
-C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\22-MVC\slnPhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.Migrations.initial.resources
-C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\22-MVC\slnPhotoSharingApplication\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csproj.GenerateResource.cache
