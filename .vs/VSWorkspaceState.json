@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PhotoSharingApplication",
+    "\\PhotoSharingApplication\\Controllers",
+    "\\PhotoSharingApplication\\Views",
+    "\\PhotoSharingApplication\\Views\\Photo"
+  ],
+  "SelectedNode": "\\PhotoSharingApplication\\Views\\Photo\\Display.cshtml",
+  "PreviewInSolutionExplorer": false
+}
